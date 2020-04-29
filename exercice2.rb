@@ -1,7 +1,7 @@
 puts "Donner un chiffre : "
 number = gets.chomp!.to_i
 
-total = 0
+toto = 0
 
 i=0
 while i <= number
