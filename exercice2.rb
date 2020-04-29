@@ -2,7 +2,6 @@ puts "Donner un chiffre : "
 number = gets.chomp!.to_i
 
 toto = 0
-
 i=0
 while i <= number
   toto = toto + i
